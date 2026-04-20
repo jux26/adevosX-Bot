@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Pair_Code-Get_Your_Code-purple?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Pair Code" width="220">
   </a>
 
-  <a href="https://github.com/adevosxtech/adevosX-Bot">
+  <a href="https://github.com/jux26/JOSHUATECH">
     <img src="https://img.shields.io/badge/Fork_Repo-Adevos--X--Bot-blue?style=for-the-badge&logo=github&logoColor=white" alt="Fork Repo" width="220">
   </a>
 
@@ -64,11 +64,11 @@ If you find this bot useful, consider:
 
 ## About
 
-**Adevos-X** Tech is a modern technology brand focused on creating smart, reliable, and innovative digital solutions. We specialize in bot development, automation, branding, and creative tech services that make communication easier and more efficient.
+**Joshua-X** Tech is a modern technology brand focused on creating smart, reliable, and innovative digital solutions. We specialize in bot development, automation, branding, and creative tech services that make communication easier and more efficient.
 
 Adevos-X Tech — CalmX | SilentPower.
 
 
 ---
 
-**© Adevos-X Tech. All rights reserved.**
+**© joshua-X Tech. All rights reserved.**
